@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+library
+lib
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.log
+*.tmp
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime data files (optional)
+library.txt
+borrow.txt
